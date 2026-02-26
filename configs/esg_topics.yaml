@@ -1,0 +1,25 @@
+topics:
+  - id: climate_energy
+    name: Energy & emissions (data centers / ops)
+    financial_channel: [cost, capex, regulatory]
+    keywords: ["energy", "emissions", "scope 1", "scope 2", "scope 3", "renewable", "data center", "carbon"]
+  - id: privacy_security
+    name: Data privacy & security
+    financial_channel: [regulatory, reputation, revenue, cost]
+    keywords: ["privacy", "GDPR", "CCPA", "data breach", "cybersecurity", "incident", "security"]
+  - id: ai_regulation
+    name: AI governance & regulation
+    financial_channel: [regulatory, revenue, reputation]
+    keywords: ["AI Act", "regulation", "algorithm", "model", "bias", "safety", "responsible AI", "governance"]
+  - id: supply_chain
+    name: Supply chain & sourcing
+    financial_channel: [cost, supply, revenue]
+    keywords: ["supplier", "supply chain", "labor", "conflict minerals", "human rights", "audit", "sourcing"]
+  - id: legal_antitrust
+    name: Legal/regulatory exposure (antitrust/platform)
+    financial_channel: [regulatory, cost, revenue]
+    keywords: ["antitrust", "investigation", "fine", "lawsuit", "regulator", "competition", "settlement"]
+  - id: disclosure_quality
+    name: Disclosure quality & assurance
+    financial_channel: [risk, cost_of_capital]
+    keywords: ["assurance", "audit", "methodology", "baseline", "target", "metrics", "limited assurance"]

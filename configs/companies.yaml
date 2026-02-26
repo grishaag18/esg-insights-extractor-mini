@@ -1,0 +1,11 @@
+companies:
+  - name: Microsoft
+    ticker: MSFT
+  - name: Alphabet
+    ticker: GOOGL
+  - name: Meta
+    ticker: META
+  - name: Nvidia
+    ticker: NVDA
+  - name: Apple
+    ticker: AAPL
