@@ -216,7 +216,7 @@ This system demonstrates how:
 
 ## How to Run
 
-1. Place PDFs in: data/raw/<COMPANY>/
+1. Place PDFs in: data/raw/<<COMPANY>>/
 2. Parse: python src/parse.py
 3. Chunk: python src/chunk.py
 4. Extract: python src/extract.py
