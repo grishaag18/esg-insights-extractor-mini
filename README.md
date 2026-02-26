@@ -1,0 +1,1 @@
+# esg-insights-extractor-mini
