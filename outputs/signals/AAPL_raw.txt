@@ -1,0 +1,80 @@
+{
+  "company": "AAPL",
+  "signals": [
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Risk of regulatory exposure due to climate-related policies.",
+      "financial_channel": ["regulatory"],
+      "severity": 4,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Reduced transportation emissions by cutting the overall volume of packaging in the iPhone 16 and iPhone 16 Plus.",
+          "source_file": "Apple_Environmental_Progress_Report_2025.pdf",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "opportunity",
+      "summary": "Opportunity to reduce direct emissions through supplier engagement.",
+      "financial_channel": ["reputation"],
+      "severity": 3,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Our purpose We address the direct emissions that result from the materials we use in our products... Our progress Reduced transportation emissions by cutting the overall volume of packaging.",
+          "source_file": "Apple_Environmental_Progress_Report_2025.pdf",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "metric",
+      "summary": "Metric of emissions reduction achieved in the supply chain.",
+      "financial_channel": ["cost"],
+      "severity": 2,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Our progress: Reduced transportation emissions by cutting the overall volume of packaging in iPhone.",
+          "source_file": "Apple_Environmental_Progress_Report_2025.pdf",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "commitment",
+      "summary": "Commitment to abate at least 90 percent of F-GHG emissions by suppliers.",
+      "financial_channel": ["reputation"],
+      "severity": 3,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Our progress: Our purpose We address the direct emissions that result from... F-GHG emissions by 2030*.",
+          "source_file": "Apple_Environmental_Progress_Report_2025.pdf",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "opportunity",
+      "summary": "Opportunity to expand renewable energy use in the supply chain.",
+      "financial_channel": ["cost"],
+      "severity": 2,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "We accelerated our progress with our transition to sourcing 100 percent renewable energy by suppliers.",
+          "source_file": "Apple_Environmental_Progress_Report_2025.pdf",
+          "page": 31
+        }
+      ]
+    }
+  ]
+}

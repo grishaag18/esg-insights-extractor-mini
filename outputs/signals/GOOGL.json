@@ -1,0 +1,90 @@
+{
+  "company": "GOOGL",
+  "signals": [
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Scope 1 and scope 2 emissions increased, with a significant rise in supply chain (scope 3) emissions.",
+      "financial_channel": [
+        "revenue"
+      ],
+      "severity": 5,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Combined scope 1 and scope 2 (market-based) emissions were 3.1 million tCO2e, representing a 241% increase compared to 2019.",
+          "source_file": "google-2025-environmental-report.pdf",
+          "page": 86
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Scope 3 emissions increased by 25% compared to the previous year.",
+      "financial_channel": [
+        "cost"
+      ],
+      "severity": 4,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Scope 3 (ambition-based) emissions were 8.4 million tCO2e, representing a 25% increase compared to 2019.",
+          "source_file": "google-2025-environmental_report.pdf",
+          "page": 86
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Scope 1 emissions decreased by only 8% year-on-year in 2024.",
+      "financial_channel": [
+        "cost"
+      ],
+      "severity": 3,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Scope 1 emissions decreased by 8% year-on-year in 2024.",
+          "source_file": "google-2025-environmental_report.pdf",
+          "page": 86
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "opportunity",
+      "summary": "Progress in sourcing clean energy from within the same regions as data centers.",
+      "financial_channel": [
+        "cost"
+      ],
+      "severity": 2,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "In North America\u2014a region that accounts for the majority of our electricity consumption\u2014we made progress sourcing clean energy from within the same regions as our data centers, helping reduce our emissions.",
+          "source_file": "google-2025-environmental_report.pdf",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "commitment",
+      "summary": "Transition to primarily using LCAs for high-impact components in technical infrastructure.",
+      "financial_channel": [
+        "cost"
+      ],
+      "severity": 3,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "In 2024, we transitioned in to primarily using LCAs as we continue to increase the accuracy of our estimates.",
+          "source_file": "google-2025-environmental_report.pdf",
+          "page": 98
+        }
+      ]
+    }
+  ]
+}

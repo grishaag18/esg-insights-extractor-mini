@@ -1,0 +1,80 @@
+{
+  "company": "META",
+  "signals": [
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Meta's commitment to decarbonizing its business and achieving net zero emissions across the value chain by 2030.",
+      "financial_channel": ["regulatory"],
+      "severity": 5,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Since 2020, we have maintained net zero emissions in our operations...to achieve net zero emissions across our value chain in 2030.",
+          "source_file": "Meta_2025-Sustainability-Report_.pdf",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Meta's fluctuating value chain emissions as the business expands and new data centers come online.",
+      "financial_channel": ["regulatory"],
+      "severity": 4,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "This underscores the long‑term nature of our value chain emissions as they continue to fluctuate...as a result of expanding business and recently constructed data centers coming online.",
+          "source_file": "Meta_2025-Sustainability-Report_.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Meta's reliance on contractual instruments to reduce emissions, which may impact regulatory exposure.",
+      "financial_channel": ["regulatory"],
+      "severity": 3,
+      "time_horizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "Our emissions with contractual instruments applied reflect emissions reductions from purchasing decisions we have made.",
+          "source_file": "Meta_2025-Sustainability-Report_.pdf",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "risk",
+      "summary": "Meta's potential supply constraints due to the need for clean and renewable energy procurement.",
+      "financial_channel": ["supply"],
+      "severity": 4,
+      "timeinhorizon": "1-3y",
+      "evidence": [
+        {
+          "quote": "...matching 100% of the energy we use with over 15 GW of clean and renewable energy...",
+          "source_file": "Meta_2025-Sustainability-Report_.pdf",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "topic_id": "climate_energy",
+      "signal_type": "opportunity",
+      "summary": "Meta's investment in renewable energy projects globally, adding more than 15 GW of clean and renewable energy to grids.",
+      "financial_channel": ["revenue"],
+      "severity": 2,
+      "timehorizon": "3-5y",
+      "evidence": [
+        {
+          "quote": "...wind and solar projects supported by Meta over the last decade are adding more than 15 gigaw0n of clean and renewable energy to grids globally.",
+          "source_file": "Meta_2025-Sustainability-Report_.pdf",
+          "page": 49
+        }
+      ]
+    }
+  ]
+}
